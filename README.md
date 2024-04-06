@@ -18,7 +18,7 @@
   | 로또 🎱 | [소파](https://github.com/ss0526100) | [링크](https://github.com/Parkhanyoung/javascript-lotto) | [PR](https://github.com/woowacourse/javascript-lotto/pull/285) | [PR](https://github.com/woowacourse/javascript-lotto/pull/325) |
   | 점심 뭐 먹지 🍴 |[다르](https://github.com/pp449) | [링크](https://github.com/Parkhanyoung/javascript-lunch) | [PR](https://github.com/woowacourse/javascript-lunch/pull/135) | [PR](https://github.com/woowacourse/javascript-lunch/pull/152) |
   | 영화 리뷰 🎬 | [빙봉](https://github.com/Yoonkyoungme) | [링크](https://github.com/Parkhanyoung/javascript-movie-review) | [PR](https://github.com/woowacourse/javascript-movie-review/pull/134) | [PR](https://github.com/woowacourse/javascript-movie-review/pull/148) |
-  | 글쓰기 과제 📚 | - | [링크](https://github.com/Parkhanyoung/woowa-writing) | - | - | - |
+  | 글쓰기 과제 📚 | - | [링크](https://github.com/Parkhanyoung/woowa-writing) | [PR](https://github.com/woowacourse/woowa-writing/pull/136) | - | - |
 
 
   
