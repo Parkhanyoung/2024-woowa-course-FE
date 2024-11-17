@@ -85,6 +85,12 @@
 - **내용**
   | 프로젝트명 | step 1 | step 2 |
   | :---------- | :------: | :------: |
-  | 웹 성능 개선 | [링크](https://github.com/woowacourse/perf-basecamp/pull/142) | -|
-  | 웹 접근성 개선 | [링크](https://github.com/woowacourse/a11y-airline/pull/110) | -|
-  | 서버 사이드 렌더링 | - | - |
+  | 웹 성능 개선 | [링크](https://github.com/woowacourse/perf-basecamp/pull/142) | X |
+  | 웹 접근성 개선 | [링크](https://github.com/woowacourse/a11y-airline/pull/110) | X |
+  | 서버 사이드 렌더링 | [링크](https://github.com/woowacourse/react-ssr/pull/3) | [링크](https://github.com/woowacourse/react-ssr/pull/41) |
+
+<br/>
+
+## 기타 활동
+- [[우아한테크 테코톡] 라이언의 린 스타트업](https://youtu.be/Flm-TqN93Ak)
+- [테크니컬 라이팅](https://github.com/woowacourse/woowa-writing/pull/578)
